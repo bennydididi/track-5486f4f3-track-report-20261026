@@ -1,0 +1,57 @@
+font matching
+what font is this
+font finder from image
+identify font from screenshot
+match font from image
+Schriftart aus Bild erkennen
+police d'écriture à partir d'une image
+identificar fuente de una imagen
+riconoscere font da immagine
+lettertype herkennen van afbeelding
+画像からフォントを調べる
+이미지 폰트 찾기
+extract text from image
+image to editable text
+image to word converter
+OCR image to text
+Text aus Bild kopieren
+extraire le texte d'une image
+extraer texto de una imagen
+estrarre testo da immagine
+tekst uit afbeelding halen
+画像の文字起こし
+이미지 텍스트 추출
+image text translator
+translate text in image
+Bildtext übersetzen
+traduire le texte d'une image
+traducir texto de una imagen
+tradurre testo in un'immagine
+tekst in afbeelding vertalen
+画像の文字を翻訳
+이미지 텍스트 번역
+remove text from image
+add text to image
+photo text generator
+ai image text generator
+text to image generator
+scanned pdf text editor
+edit text in pdf
+[高风险排除] fake receipt generator
+[高风险排除] change amount on receipt image
+[高风险排除] edit bank statement screenshot
+[高风险排除] edit text on ID card
+[高风险排除] gefälschte Quittung erstellen
+[高风险排除] Text auf Ausweis ändern
+[高风险排除] générateur de faux reçus
+[高风险排除] modifier le texte d'une carte d'identité
+[高风险排除] generador de recibos falsos
+[高风险排除] cambiar datos de un documento de identidad
+[高风险排除] generatore di scontrini falsi
+[高风险排除] modificare dati sulla carta d'identità
+[高风险排除] nepbon maken
+[高风险排除] gegevens op identiteitsbewijs wijzigen
+[高风险排除] 領収書の金額を改ざん
+[高风险排除] 身分証の文字を書き換え
+[高风险排除] 영수증 금액 조작
+[高风险排除] 신분증 글자 수정
